@@ -1,0 +1,49 @@
+img {
+    max-width: 500px;
+    max-height: 500px;
+    margin-left: 450px;
+}
+
+Body {
+    background-color: #e30eb1;
+    border: blueviolet;
+    border-style: dotted;
+    border: 300px;
+    border-color: cyan;
+}
+
+h1 {
+    color: #0527ad;
+    font: 300px;
+    font-family: fantasy;
+    font-weight: bold;
+    text-align: center;
+    padding: auto;
+    margin: 30px;
+    text-underline-position: below;
+}
+
+h2 {
+    color: #0527ad;
+    font: 300px;
+    font-family: fantasy;
+    font-weight: bold;
+    text-align: center;
+    text-underline-position: below;
+    padding: auto;
+    margin: 30px;
+}
+
+p {
+    color: #40159e;
+    font: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: normal;
+    padding: auto;
+    margin: 30px;
+}
+
+.flex-container {
+    display: flex;
+    flex-flow: row wrap;
+}
